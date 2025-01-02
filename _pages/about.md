@@ -1,17 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Rui Gan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I received a Ph.D. degree in Civil and Environmental Engineering from the University of Wisconsin-Madison in 2024. I also hold an M.S. degree in Computer Sciences from the University of Wisconsin-Madison in 2022 and an M.S. degree in Civil and Environmental Engineering from Carnegie Mellon University in 2018. I received a B.S. degree in Civil Engineering from Southeast University in Nanjing, China in 2017.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I focus on the research and development of intelligent connected vehicles and infrastructures in transportation systems. By leveraging artificial intelligence, machine learning, and big data, I aim to advance autonomous driving technology in complex traffic scenarios. My research covers trajectory prediction and planning for autonomous vehicles, cooperative driving automation in complex traffic environments, and roadside-device-based localization and work zone data detection. I hope to gradually promote the adoption of autonomous vehicles, intelligent connected vehicles, and intelligent transportation facilities from a practical perspective, truly integrating the needs of academia, automakers, road construction companies, transportation technology firms, and transportation policymakers.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+## Research Interests
+- Integration and innovation of artificial intelligence and machine learning in connected and autonomous vehicles and intelligent transportation systems  
+- Human-driven vehicle motion prediction and autonomous vehicle trajectory planning  
+- Intelligent transportation system integration powered by large language models  
+- Spatiotemporal data modeling and transportation network analysis  
+- Development of V2X communication data pipeline systems
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email: rgan6@wisc.edu](mailto:rgan6@wisc.edu)
 ————————————————
