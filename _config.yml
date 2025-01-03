@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rui Gan / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rui Gan"
 description              : &description "personal description"
