@@ -1,14 +1,4 @@
 ---
-title: "A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network"
-collection: publications
-category: manuscripts
-date: 2024-01-01
-venue: "IEEE Transactions on Intelligent Transportation Systems"
-paperurl: "https://doi.org/10.1109/TITS.2024.3396382"
-excerpt: "Predicting freeway traffic flow using a generalized dynamic spatio-temporal graph convolutional network."
-citation: "Gan, R., An, B., Li, L., Qu, X., & Ran, B. (2024). A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network. IEEE Transactions on Intelligent Transportation Systems."
-permalink: /publication/2024-gan-spatiotemporal-graph
----
-
-**Abstract**  
-The accurate prediction of traffic conditions is essential for effective and efficient traffic management and control. The dynamic and complex nature of traffic data, characterized by intricate temporal and spatial features, presents significant challenges to accurate traffic forecasting. While previous studies have developed various models with advanced algorithms, they often fail to fully capture the holistic spatio-temporal features and the dynamically evolving correlations within traffic networks. Additionally, these studies often overlook the potential of adjacency matrices learned from real-time traffic data to more accurately represent the interconnectivity of nodes within road network. To address these gaps, this study introduces the Generalized Dynamic Spatio-Temporal Graph Convolutional Network (GDSTGCN), a novel prediction model tailored for traffic data. First, this model builds a learning-based generalized dynamic graph structure, which incorporates both spatial and temporal connections and evolves with real-time traffic data. Then, a generalized dynamic graph convolution, integrated with graph diffusion, is crafted to operate on the designed generalized dynamic graph structure. This plays a critical role in holistically capturing local and global spatio-temporal traffic dependencies. Moreover, the generalized dynamic graph convolution is incorporated with Temporal convolution and other essential components, forming a cohesive framework that enables effective and efficient traffic flow predictions. To validate the performance of the GDSTGCN model, we conducted extensive experiments using four real-world road network datasets. The results demonstrate that our model outperforms existing state-of-the-art GCN-based models and traditional baseline methods.
+- **A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network**  
+  *IEEE Transactions on Intelligent Transportation Systems, doi: [10.1109/TITS.2024.3396382](https://doi.org/10.1109/TITS.2024.3396382)*.  
+  **Gan, R.**, An, B., Li, L., Qu, X., & Ran, B. (2024). [Link](https://doi.org/10.1109/TITS.2024.3396382)
