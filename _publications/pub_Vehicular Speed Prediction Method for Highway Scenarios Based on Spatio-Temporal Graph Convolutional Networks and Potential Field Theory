@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2024-02-01
 venue: "IEEE Internet of Things Journal"
-authors: "Li, L., An, B., Zhang, D., Gan, R., Zhou, Z., Qu, X., & Ran, B."
+authors: "Li, L., An, B., Zhang, D., *Gan, R.*, Zhou, Z., Qu, X., & Ran, B."
 paperurl: "https://doi.org/10.1109/JIOT.2024.3479221"
 doi: "10.1109/JIOT.2024.3479221"
 excerpt: "Integrates STGCN and potential field theory for vehicular speed prediction on highways."
