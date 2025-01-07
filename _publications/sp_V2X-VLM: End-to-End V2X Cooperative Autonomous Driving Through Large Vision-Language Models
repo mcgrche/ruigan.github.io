@@ -1,0 +1,10 @@
+---
+title: "V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models"
+collection: publications
+category: sp
+date: 2024-07-01
+venue: "arXiv preprint arXiv:2408.09251"
+authors: "You, J., Shi, H., Jiang, Z., Huang, Z., Gan, R., Wu, K., Cheng, X., Li, X., & Ran, B."
+paperurl: "https://arxiv.org/abs/2408.09251"
+excerpt: "Introduces a vision-language model approach to V2X cooperative autonomous driving."
+---
