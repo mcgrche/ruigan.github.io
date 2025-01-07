@@ -1,4 +1,11 @@
 ---
-- **A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network**  
-  *IEEE Transactions on Intelligent Transportation Systems, doi: [10.1109/TITS.2024.3396382](https://doi.org/10.1109/TITS.2024.3396382)*.  
-  **Gan, R.**, An, B., Li, L., Qu, X., & Ran, B. (2024). [Link](https://doi.org/10.1109/TITS.2024.3396382)
+title: "A Freeway Traffic Flow Prediction Model Based on a Generalized Dynamic Spatio-Temporal Graph Convolutional Network"
+collection: publications
+category: manuscripts
+date: 2024-01-01
+venue: "IEEE Transactions on Intelligent Transportation Systems"
+authors: "Gan, R., An, B., Li, L., Qu, X., & Ran, B."
+paperurl: "https://doi.org/10.1109/TITS.2024.3396382"
+doi: "10.1109/TITS.2024.3396382"
+excerpt: "Proposes a dynamic spatio-temporal GCN for freeway traffic flow prediction."
+---
