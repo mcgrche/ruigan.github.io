@@ -1,4 +1,11 @@
 ---
-- **Vehicular Speed Prediction Method for Highway Scenarios Based on Spatio-Temporal Graph Convolutional Networks and Potential Field Theory**  
-  *IEEE Internet of Things Journal, doi: [10.1109/JIOT.2024.3479221](https://doi.org/10.1109/JIOT.2024.3479221)*.  
-  Li, L., An, B., Zhang, D., **Gan, R.**, Zhou, Z., Qu, X., & Ran, B. (2024). [Link](https://doi.org/10.1109/JIOT.2024.3479221)
+title: "Traffic Collective Motion Prediction Based on a Generalized Spatio-Temporal Graph Convolutional Network"
+collection: publications
+category: manuscripts
+date: 2022-03-01
+venue: "Journal of Transportation Engineering, 22(3), 79–88"
+authors: "Qu, X., Gan, R., An, B., Li, L., Chen, Z., & Ran, B."
+paperurl: "http://dx.doi.org/10.19818/j.cnki.1671-1637.2022.03.006"
+doi: "10.19818/j.cnki.1671-1637.2022.03.006"
+excerpt: "A Chinese-language study using generalized spatio-temporal graph convolution for traffic collective motion."
+---
