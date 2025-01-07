@@ -6,6 +6,6 @@ date: 2025-01-01
 venue: "AED50, Transportation Research Board 104th Annual Meeting (Washington, D.C., Jan 2025)"
 authors: "<strong>Gan, R.</strong>, Shi, H., Li, P., Wu, K., An, B., Li, L., Ma, J., Ma, C., & Ran, B."
 excerpt: "Presents a goal-based neural physics approach for vehicle trajectory prediction."
-paperurl: "TRBAM-25-05024.pdf"
-posterurl: "TRB_poster_GNP_v1.2.pdf"
+paperurl: "../assets/TRBAM-25-05024.pdf"
+posterurl: "../assets/TRB_poster_GNP_v1.2.pdf"
 ---
