@@ -1,0 +1,10 @@
+---
+title: "FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction"
+collection: publications
+category: sp
+date: 2024-08-01
+venue: "arXiv preprint arXiv:2411.16747 (submitted to CVPR)"
+authors: "You, J., Gan, R., Tang, W., Huang, Z., Liu, J., Jiang, Z., Shi, H., Wu, K., Long, K., Fu, S., & others."
+paperurl: "https://arxiv.org/abs/2411.16747"
+excerpt: "A noise conditional diffusion approach for car-following trajectory prediction."
+---
