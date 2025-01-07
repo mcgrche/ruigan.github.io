@@ -569,3 +569,11 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.pub-category {
+  color: #007bff;      /* a shade of blue, adjust as you like */
+  font-size: 2.4em;    /* make it large; tweak the value to your preference */
+  font-weight: bold;
+  margin-top: 1em;     /* optional spacing */
+  margin-bottom: 0.5em;
+}
+
