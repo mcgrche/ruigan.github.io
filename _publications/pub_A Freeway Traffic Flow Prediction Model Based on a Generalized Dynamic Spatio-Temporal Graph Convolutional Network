@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2024-12-01
 venue: "IEEE Transactions on Intelligent Transportation Systems"
-authors: "**Gan, R.**, An, B., Li, L., Qu, X., & Ran, B."
+authors: "<strong>Gan, R.</strong>, An, B., Li, L., Qu, X., & Ran, B."
 paperurl: "https://doi.org/10.1109/TITS.2024.3396382"
 doi: "10.1109/TITS.2024.3396382"
 excerpt: "Proposes a dynamic spatio-temporal GCN for freeway traffic flow prediction."
