@@ -1,0 +1,10 @@
+---
+title: "Goal-based Neural Physics Vehicle Trajectory Prediction Model"
+collection: publications
+category: sp
+date: 2024-12-01
+venue: "arXiv preprint arXiv:2409.15182 (submitted to Transportation Research Part C)"
+authors: "Gan, R., Shi, H., Li, P., Wu, K., An, B., Li, L., Ma, J., Ma, C., & Ran, B."
+paperurl: "https://arxiv.org/abs/2409.15182"
+excerpt: "A trajectory prediction model using neural physics with goal-based constraints."
+---
